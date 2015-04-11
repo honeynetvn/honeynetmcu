@@ -18,7 +18,7 @@ Changelog can be found in the file "NEWS".
 ---------------
 
 HONEYNET-MCU is an open-source Mutli Conference Unit using the H.323, SIP and RTSP
-protocols (software MCU). It is fork of the original HONEYNET-MCU with many new features.
+protocols (software MCU). It is fork of the original OpenMCU with many new features.
 Server runs on Linux, Windows and FreeBSD.
 
 -----------
