@@ -1,5 +1,0 @@
-#!/bin/sh
-
-/etc/init.d/openmcu-ru stop
-
-exit 0
