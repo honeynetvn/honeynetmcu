@@ -72,6 +72,7 @@ window.l_info_welcome ='\
 HONEYNET-MCU<br>\
 http://honeynet.vn<br>\
 SDT:0938357205<br>\
+Edit:HNN_TAM && HNN_HAI<br>\
 </p>\
 ';
 window.l_welcome_logo ='\
