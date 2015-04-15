@@ -21,7 +21,7 @@
 #define	GIF_WIDTH  176
 #define GIF_HEIGHT 144
 #endif
-
+#test
 
 #ifdef RC_INVOKED
 
