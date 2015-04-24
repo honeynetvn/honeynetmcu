@@ -245,7 +245,7 @@ window.l_startdatetime                             = "Start Date/Time";
 ///
 window.l_restore_defaults                          = "RESTORE DEFAULTS";
 window.l_language                                  = "Language";
-window.l_server_id                                 = "OpenMCU-ru Server Id";
+window.l_server_id                                 = "Server Id";
 window.l_default_protocol_for_outgoing_calls       = "Default protocol for outgoing calls";
 window.l_http_secure                               = "HTTP secure";
 window.l_http_certificate                          = "HTTP certificate";
