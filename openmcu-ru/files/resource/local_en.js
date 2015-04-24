@@ -1,4 +1,4 @@
-window.l_welcome = 'HONEYNET-MCU';
+window.l_welcome = 'HONEYNET VIDEO CONFERENCING';
 window.l_status = 'Status';
 
 window.l_connections = 'Connections';
@@ -62,16 +62,18 @@ window.l_param_receive_video = 'Video codecs (receive)';
 window.l_param_transmit_video = 'Video codecs (transmit)';
 window.l_param_sip_sound = 'Audio codecs';
 window.l_param_sip_video = 'Video codecs';
-window.l_help = 'Help';
+window.l_help = 'About';
 window.l_forum = 'Forum';
 window.l_manual = 'Manual';
 window.l_support = 'Support';
 
 window.l_info_welcome ='\
 <p>\
-HONEYNET-MCU<br>\
-http://honeynet.vn<br>\
-SDT:0938357205<br>\
+HONEYNET-VideoConferencing is the original MCU with alot of features:<br>\
+- Can accept multiple connections simultaneously<br>\
+- Compatibility with many out-side devices (Polycom, Sony, Panasonic, ...)<br>\
+- Save up to 80% than other specialized equipments but quality is be assured<br>\
+Refer to the our website: http://honeynet.vn <br>\
 </p>\
 ';
 window.l_welcome_logo ='\
