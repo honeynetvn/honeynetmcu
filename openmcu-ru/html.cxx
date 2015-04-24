@@ -2156,7 +2156,7 @@ BOOL WelcomePage::OnGET (PHTTPServer & server, const PURL &url, const PMIMEInfo 
 
   shtml << "<br><b>Monitor Text (<span style='cursor:pointer;text-decoration:underline' onclick='javascript:{if(document.selection){var range=document.body.createTextRange();range.moveToElementText(document.getElementById(\"monitorTextId\"));range.select();}else if(window.getSelection){var range=document.createRange();range.selectNode(document.getElementById(\"monitorTextId\"));window.getSelection().addRange(range);}}'>select all</span>)</b><div style='padding:5px;border:1px dotted #595;width:100%;height:auto;max-height:300px;overflow:auto'><pre style='margin:0px;padding:0px' id='monitorTextId'>"
 #ifdef GIT_REVISION
-        << "OpenMCU-ru REVISION " << MCU_STRINGIFY(GIT_REVISION) << "\n"
+        << "HONEYNETMCU REVISION " << MCU_STRINGIFY(GIT_REVISION) << "\n"
 #endif
 
               << "Program: "          << OpenMCU::Current().GetProductName() << "\n"
