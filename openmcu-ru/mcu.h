@@ -454,9 +454,11 @@ class OpenMCU : public OpenMCUPreInit, public OpenMCUProcessAncestor
     {
       PStringStream html;
       html << "Copyright &copy;"
+      << "2013 - "
        << compilationDate.AsString("yyyy") << " by "
        << "<A HREF=\"" << copyrightHomePage << "\" target=\"_blank\"" << ">"
-       << copyrightHolder;
+       << copyrightHolder << "</A>"
+       << ". All rights reserved.";
       return html;
     }
 
