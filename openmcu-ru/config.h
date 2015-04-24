@@ -42,13 +42,13 @@
 // specify the path for built-in web server resources
 #define SYS_RESOURCE_DIR "/opt/openmcu-ru/resource"
 // specify server logs folder
-#define SERVER_LOGS "/opt/openmcu-ru/log"
+#define SERVER_LOGS "/opt/honeynetmcu/log"
 // specify true font directory
 #define TRUETYPE_FONT_DIR "/opt/openmcu-ru/font"
 // specify records directory
 #define RECORDS_DIR "/opt/openmcu-ru/records"
 // specify certificates directory
-#define SYS_SSL_DIR "/opt/openmcu-ru/ssl"
+#define SYS_SSL_DIR "/opt/honeynetmcu/ssl"
 
 // enable test rooms for video mixer
 #define ENABLE_TEST_ROOMS   1
